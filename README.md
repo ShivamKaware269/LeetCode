@@ -9,4 +9,4 @@ Goals
 - 📈 Track my progress and maintain coding consistency
 - 💡 Build a strong foundation for software development
 
-«"Consistency beats intensity. One problem at a time, one step closer to mastery."»
+> **Consistency beats intensity. One problem at a time, one step closer to mastery.**
